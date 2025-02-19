@@ -1,0 +1,4098 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2D6",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP2D6|Reference concentration",
+          "Value": 0.4,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (liver)",
+          "Value": 51.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.00768702814
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.768702814
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0208304736
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0223404255
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2D6"
+      }
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "ABCB1",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "ABCB1|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "ABCB1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ABCB1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0242518189
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ABCB1|Relative expression",
+          "Value": 0.07608904
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ABCB1|Relative expression",
+          "Value": 0.017417973
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0419198107
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ABCB1|Relative expression",
+          "Value": 0.7092198582
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1108416465
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0657549316
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0128342959
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0142510688
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.2808543974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0742555692
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0260852897
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ]
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "Nakagami 2005, n=12, AS=1",
+      "Seed": 1818552328,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "Japanese_Population",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 24.0,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 64.8,
+          "Unit": "kg"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "ABCB1|Human|Healthy",
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Risperidone",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.4,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1 no DDI lipo not fixed' on 2020-10-16 08:38"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 17.5,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1 no DDI lipo not fixed' on 2020-10-16 08:38"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.171,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.3
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 8.0437234696E-06,
+              "Unit": "cm/min"
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.76,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 3.11,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2 (9-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "9-Hydroxyrisperidone",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 3.1902307094,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2022-06-01 08:49"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2 (sink)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 3' on 2020-07-16 10:10"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.9418795623,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2022-06-01 08:49"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Okubo 2016 (9-hydroxylation)",
+          "Molecule": "CYP3A4",
+          "Metabolite": "9-Hydroxyrisperidone",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 61.0,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 3' on 2020-07-16 10:10"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.7,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Unknown",
+                "Description": "Kneller"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Okubo 2016 (sink)",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 61.0,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 3' on 2020-07-16 10:10"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.15,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2021-10-11 14:10"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Ejsing 2005",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 26.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 12.715199036,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2022-06-01 08:53"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax as input value."
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumed",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0 (9-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "9-Hydroxyrisperidone",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0 (sink)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=1 (9-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "9-Hydroxyrisperidone",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.2197940948,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=1 (sink)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.742483362,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=3 (9-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "9-Hydroxyrisperidone",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 5.911309844,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=3 (sink)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 3.5981886007,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Okubo 2016 (9-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "9-Hydroxyrisperidone",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.0405793203,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2022-06-01 08:53"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Okubo 2016 (sink)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.633396108,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2022-06-01 08:53"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=1.25 (9-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "9-Hydroxyrisperidone",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.824281,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=1.25 (sink)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 1.1,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.11051,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Poulin and Theil",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "F",
+          "Value": 1.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 410.48,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "9-Hydroxyrisperidone",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.1,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1 no DDI lipo not fixed' on 2020-10-16 08:38"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 29.0,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1 no DDI lipo not fixed' on 2020-10-16 08:38"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.171,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.3
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.76,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 3.11,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.26
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 1.76,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.0821152637,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2022-05-31 18:04"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Ejsing 2005",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 149.6,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0057047043998,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Kneller adapted' on 2022-05-31 18:04"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax as input value."
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "F",
+          "Value": 1.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 426.48,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "R-Norverapamil",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "logP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.8407448658,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 5.1,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 46.0,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.54
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 3.5447164381E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 0.0994098912,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.75,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "D620",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.0,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 144.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 145.6385399671,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransport_InVitro_VesicularAssay_MM",
+          "DataSource": "Paper",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/transporter",
+              "Value": 0.00057724,
+              "Unit": "pmol/min/pmol transporter"
+            },
+            {
+              "Name": "Km",
+              "Value": 1.01,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 3.3916609583,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax normalized to the amount of transporter as input value which was determined in a vesicular transport assay."
+        },
+        {
+          "InternalName": "NoncompetitiveInhibition",
+          "DataSource": "Non-competitive",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.0383697779,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "MBI",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.048,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 6.1,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 440.584,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "R-Verapamil",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "logP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.8407448658,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 5.1,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVivo"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 46.0,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.54
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 3.5447164381E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 0.0994098912,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.75,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransport_InVitro_VesicularAssay_MM",
+          "DataSource": "Paper",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/transporter",
+              "Value": 0.00057724,
+              "Unit": "pmol/min/pmol transporter"
+            },
+            {
+              "Name": "Km",
+              "Value": 1.01,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 12.5970868779,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax normalized to the amount of transporter as input value which was determined in a vesicular transport assay."
+        },
+        {
+          "InternalName": "NoncompetitiveInhibition",
+          "DataSource": "Non-competitive",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.0383697779,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "MBI",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.038,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 27.63,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Norverapamil",
+          "Molecule": "CYP3A4",
+          "Metabolite": "R-Norverapamil",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 1.27,
+              "Unit": "nmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 19.59,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 34.9352466212,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "D617",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 1.17,
+              "Unit": "nmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 35.34,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 43.9812289146,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 454.611,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "S-Norverapamil",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "logP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.8407448658,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 11.0,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 46.0,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.54
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 3.5447164381E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 0.0994098912,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.75,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "D620",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 6.5,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 36.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 41.0994047535,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransport_InVitro_VesicularAssay_MM",
+          "DataSource": "Paper",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/transporter",
+              "Value": 0.00057724,
+              "Unit": "pmol/min/pmol transporter"
+            },
+            {
+              "Name": "Km",
+              "Value": 1.01,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 3.3916609583,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax normalized to the amount of transporter as input value which was determined in a vesicular transport assay."
+        },
+        {
+          "InternalName": "NoncompetitiveInhibition",
+          "DataSource": "Non-competitive",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.0383697779,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "MBI",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.08,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 2.9,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 440.584,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "S-Verapamil",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "logP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.8407448658,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 11.0,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVivo"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 46.0,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.54
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 3.5447164381E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 0.0994098912,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.75,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransport_InVitro_VesicularAssay_MM",
+          "DataSource": "Paper",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/transporter",
+              "Value": 0.00057724,
+              "Unit": "pmol/min/pmol transporter"
+            },
+            {
+              "Name": "Km",
+              "Value": 1.01,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 12.5970868779,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax normalized to the amount of transporter as input value which was determined in a vesicular transport assay."
+        },
+        {
+          "InternalName": "NoncompetitiveInhibition",
+          "DataSource": "Non-competitive",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.0383697779,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "MBI",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.034,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 3.85,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Norverapamil",
+          "Molecule": "CYP3A4",
+          "Metabolite": "S-Norverapamil",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 1.02,
+              "Unit": "nmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 9.72,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 26.1743386639,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "D617",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.86,
+              "Unit": "nmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 23.64,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 56.4245798193,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '30b - final' on 2019-12-30 13:23"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 454.611,
+          "Unit": "g/mol"
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Solution",
+      "FormulationType": "Formulation_Dissolved"
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Nakagami 2005 - S-Verapamil, po, 80 mg, tid",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 37.03,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 6.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 37.03,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 5.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 6.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Schema 3",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 37.03,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 10.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 6.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Nakagami 2005 - R-Verapamil, po, 80 mg, tid",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 37.03,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 6.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 37.03,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 5.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 6.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Schema 3",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 37.03,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 10.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 6.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd @ 121 h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 1.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 121.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 1.0,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    }
+  ],
+  "ObserverSets": [
+    {
+      "Name": "Sum-Norverapamil",
+      "Observers": [
+        {
+          "Name": "Sum-Norverapamil Plasma (Peripheral Venous Blood)",
+          "Dimension": "Concentration (molar)",
+          "ContainerCriteria": [
+            {
+              "Tag": "PeripheralVenousBlood",
+              "Type": "MatchTag"
+            }
+          ],
+          "Formula": {
+            "Name": "Sum-Norverapamil",
+            "Formula": "fQ_art*(C_pls_art_RN+C_pls_art_SN)+fQ_bon*(C_pls_bon_RN+C_pls_bon_SN)+fQ_fat*(C_pls_fat_RN+C_pls_fat_SN)+fQ_mus*(C_pls_mus_RN+C_pls_mus_SN)+fQ_skn*(C_pls_skn_RN+C_pls_skn_SN)",
+            "References": [
+              {
+                "Alias": "C_pls_art_RN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|ArterialBlood|Plasma|R-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_bon_RN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Bone|Plasma|R-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_fat_RN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Fat|Plasma|R-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_mus_RN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Muscle|Plasma|R-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_skn_RN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Skin|Plasma|R-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_art_SN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|ArterialBlood|Plasma|S-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_bon_SN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Bone|Plasma|S-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_fat_SN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Fat|Plasma|S-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_mus_SN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Muscle|Plasma|S-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_skn_SN",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Skin|Plasma|S-Norverapamil|Concentration"
+              },
+              {
+                "Alias": "fQ_art",
+                "Dimension": "Fraction",
+                "Path": "Organism|ArterialBlood|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_bon",
+                "Dimension": "Fraction",
+                "Path": "Organism|Bone|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_fat",
+                "Dimension": "Fraction",
+                "Path": "Organism|Fat|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_mus",
+                "Dimension": "Fraction",
+                "Path": "Organism|Muscle|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_skn",
+                "Dimension": "Fraction",
+                "Path": "Organism|Skin|Peripheral blood flow fraction"
+              }
+            ],
+            "Dimension": "Concentration (molar)"
+          },
+          "MoleculeList": {
+            "ForAll": false,
+            "MoleculeNamesToInclude": [
+              "R-Norverapamil"
+            ]
+          },
+          "Type": "Container"
+        }
+      ]
+    },
+    {
+      "Name": "Sum-Verapamil",
+      "Observers": [
+        {
+          "Name": "Sum-Verapamil Plasma (Peripheral Venous Blood)",
+          "Dimension": "Concentration (molar)",
+          "ContainerCriteria": [
+            {
+              "Tag": "PeripheralVenousBlood",
+              "Type": "MatchTag"
+            }
+          ],
+          "Formula": {
+            "Name": "Sum-Verapamil",
+            "Formula": "fQ_art*(C_pls_art_R+C_pls_art_S)+fQ_bon*(C_pls_bon_R+C_pls_bon_S)+fQ_fat*(C_pls_fat_R+C_pls_fat_S)+fQ_mus*(C_pls_mus_R+C_pls_mus_S)+fQ_skn*(C_pls_skn_R+C_pls_skn_S)",
+            "References": [
+              {
+                "Alias": "C_pls_art_R",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|ArterialBlood|Plasma|R-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_bon_R",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Bone|Plasma|R-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_fat_R",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Fat|Plasma|R-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_mus_R",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Muscle|Plasma|R-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_skn_R",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Skin|Plasma|R-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_art_S",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|ArterialBlood|Plasma|S-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_bon_S",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Bone|Plasma|S-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_fat_S",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Fat|Plasma|S-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_mus_S",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Muscle|Plasma|S-Verapamil|Concentration"
+              },
+              {
+                "Alias": "C_pls_skn_S",
+                "Dimension": "Concentration (molar)",
+                "Path": "Organism|Skin|Plasma|S-Verapamil|Concentration"
+              },
+              {
+                "Alias": "fQ_art",
+                "Dimension": "Fraction",
+                "Path": "Organism|ArterialBlood|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_bon",
+                "Dimension": "Fraction",
+                "Path": "Organism|Bone|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_fat",
+                "Dimension": "Fraction",
+                "Path": "Organism|Fat|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_mus",
+                "Dimension": "Fraction",
+                "Path": "Organism|Muscle|Peripheral blood flow fraction"
+              },
+              {
+                "Alias": "fQ_skn",
+                "Dimension": "Fraction",
+                "Path": "Organism|Skin|Peripheral blood flow fraction"
+              }
+            ],
+            "Dimension": "Concentration (molar)"
+          },
+          "MoleculeList": {
+            "ForAll": false,
+            "MoleculeNamesToInclude": [
+              "R-Verapamil"
+            ]
+          },
+          "Type": "Container"
+        }
+      ]
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+        "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 60.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Nakagami 2005 - Risperidone, po, 1 mg, sd|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Nakagami 2005, n=12, AS=1",
+      "Compounds": [
+        {
+          "Name": "Risperidone",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Okubo 2016 (9-hydroxylation)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "9-Hydroxyrisperidone"
+            },
+            {
+              "Name": "CYP3A4-Okubo 2016 (sink)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=1 (9-hydroxylation)",
+              "MoleculeName": "CYP2D6",
+              "MetaboliteName": "9-Hydroxyrisperidone"
+            },
+            {
+              "Name": "CYP2D6-AS=1 (sink)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "ABCB1-Ejsing 2005",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "9-Hydroxyrisperidone",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Ejsing 2005",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Nakagami 2005 - Risperidone, po, 1 mg, sd|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Nakagami 2005 - Risperidone, po, 1 mg, sd|Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|[h]",
+              "Y": "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Nakagami 2005 - Risperidone, po, 1 mg, sd|[h]",
+              "Y": "Nakagami 2005 - Risperidone, po, 1 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "risperidone_ddi_V11\nNakagami 2005 - Risperidone, po, 1 mg, sd\n2023-01-02 16:29"
+        }
+      ]
+    },
+    {
+      "Name": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Nakagami 2005 - DDI - Risperidone, po, 1 mg, sd",
+        "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 154.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Nakagami 2005 - Risperidone, po, 1 mg, sd @ 121 h|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - R-Verapamil, po, 80 mg, tid|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Nakagami 2005 - S-Verapamil, po, 80 mg, tid|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Nakagami 2005, n=12, AS=1",
+      "Compounds": [
+        {
+          "Name": "9-Hydroxyrisperidone",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Ejsing 2005",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Risperidone",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Okubo 2016 (9-hydroxylation)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "9-Hydroxyrisperidone"
+            },
+            {
+              "Name": "CYP3A4-Okubo 2016 (sink)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=1 (9-hydroxylation)",
+              "MoleculeName": "CYP2D6",
+              "MetaboliteName": "9-Hydroxyrisperidone"
+            },
+            {
+              "Name": "CYP2D6-AS=1 (sink)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "ABCB1-Ejsing 2005",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd @ 121 h",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "R-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "ABCB1-Paper",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "R-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "R-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "ABCB1-Paper",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Nakagami 2005 - R-Verapamil, po, 80 mg, tid",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "S-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "ABCB1-Paper",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "S-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "S-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "ABCB1-Paper",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Nakagami 2005 - S-Verapamil, po, 80 mg, tid",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "ObserverSets": [
+        {
+          "Name": "Sum-Norverapamil"
+        },
+        {
+          "Name": "Sum-Verapamil"
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 115.7516,
+              "Max": 151.5843,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001802226,
+              "Max": 0.02414982,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg|Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "NA05_PO_1_RIS_80_VER_IM_179_DDI_-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Nakagami 2005 - DDI - Risperidone, po, 1 mg, sd|[h]",
+              "Y": "NA05_PO_1_RIS_80_VER_IM_179_DDI_|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|[h]",
+              "Y": "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "risperidone_ddi_V11\nNakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg\n2023-01-02 16:06"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "ABCB1-Non-competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "ABCB1-Non-competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "ABCB1-Non-competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "S-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Norverapamil"
+        },
+        {
+          "Name": "ABCB1-Non-competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Verapamil"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Risperidone"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "[ng/mL]",
+          "RelatedColumns": [
+            {
+              "Name": "[ng/mL](1)",
+              "QuantityInfo": {
+                "Path": "Nakagami 2005 - Risperidone, po, 1 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 410.48
+              },
+              "Values": [
+                0.00106864562,
+                0.000928563357,
+                0.00088073,
+                0.0009211819,
+                0.0007885572,
+                0.000622747757,
+                0.0005158629,
+                0.000386947941,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Nakagami 2005 - Risperidone, po, 1 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 410.48
+          },
+          "Values": [
+            0.00179553591,
+            0.00396868074,
+            0.00523888739,
+            0.004696193,
+            0.00373358186,
+            0.00234240247,
+            0.00173984386,
+            0.00096935546,
+            0.000198072463
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "[h]",
+        "QuantityInfo": {
+          "Path": "Nakagami 2005 - Risperidone, po, 1 mg, sd|[h]",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          1.0,
+          2.0,
+          3.0,
+          4.0,
+          6.0,
+          8.0,
+          12.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "9-Hydroxyrisperidone"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "[ng/mL]",
+          "RelatedColumns": [
+            {
+              "Name": "[ng/mL](1)",
+              "QuantityInfo": {
+                "Path": "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL](1)"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 426.48
+              },
+              "Values": [
+                0.000323050772,
+                0.000855758844,
+                0.0007201374,
+                0.0006856455,
+                0.000752189837,
+                0.0007201707,
+                0.000532714766,
+                0.0003773513,
+                0.000189948638
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 426.48
+          },
+          "Values": [
+            0.0007855433,
+            0.00329085463,
+            0.004575127,
+            0.00475220568,
+            0.00478868466,
+            0.004299354,
+            0.00399256032,
+            0.003144562,
+            0.00156504649
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "[h]",
+        "QuantityInfo": {
+          "Path": "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|[h]",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          1.0,
+          2.0,
+          3.0,
+          4.0,
+          6.0,
+          8.0,
+          12.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "9-Hydroxyrisperidone"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "[ng/mL]",
+          "RelatedColumns": [
+            {
+              "Name": "[ng/mL](1)",
+              "QuantityInfo": {
+                "Path": "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL](1)"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 426.48
+              },
+              "Values": [
+                0.0003994462,
+                0.0008014317,
+                0.0008458213,
+                0.0009222766,
+                0.000855679,
+                0.00073484733,
+                0.0005868888,
+                0.0003994861,
+                0.000197253685
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 426.48
+          },
+          "Values": [
+            0.00153769983,
+            0.003870392,
+            0.00512997666,
+            0.00558818271,
+            0.005686347,
+            0.005559511,
+            0.00520342262,
+            0.00411372073,
+            0.00213963166
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "[h]",
+        "QuantityInfo": {
+          "Path": "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd|[h]",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          121.5,
+          122.0,
+          123.0,
+          124.0,
+          125.0,
+          127.0,
+          129.0,
+          133.0,
+          145.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Nakagami 2005 - DDI - Risperidone, po, 1 mg, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Risperidone"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "[ng/mL]",
+          "RelatedColumns": [
+            {
+              "Name": "[ng/mL](1)",
+              "QuantityInfo": {
+                "Path": "NA05_PO_1_RIS_80_VER_IM_179_DDI_|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 410.48
+              },
+              "Values": [
+                0.001344618,
+                0.00114575087,
+                0.00122680713,
+                0.0009578225,
+                0.0008693341,
+                0.000843619637,
+                0.0006483733,
+                0.0003683864,
+                0.0001989307
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NA05_PO_1_RIS_80_VER_IM_179_DDI_|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 410.48
+          },
+          "Values": [
+            0.00434510875,
+            0.008095165,
+            0.008352132,
+            0.00682206359,
+            0.005557422,
+            0.00391933927,
+            0.0026940708,
+            0.00130098709,
+            0.0004670443
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "[h]",
+        "QuantityInfo": {
+          "Path": "Nakagami 2005 - DDI - Risperidone, po, 1 mg, sd|[h]",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          121.5,
+          122.0,
+          123.0,
+          124.0,
+          125.0,
+          127.0,
+          129.0,
+          133.0,
+          145.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "verapamil ddi",
+      "Classifiables": [
+        "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+        "Nakagami 2005 - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd",
+        "Nakagami 2005 - DDI - 9-Hydroxyrisperidone, po, 1 mg risperidone, sd",
+        "Nakagami 2005 - DDI - Risperidone, po, 1 mg, sd"
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "verapamil ddi",
+      "Classifiables": [
+        "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg",
+        "Nakagami 2005 - Risperidone, po, 1 mg, sd"
+      ]
+    }
+  ]
+}
